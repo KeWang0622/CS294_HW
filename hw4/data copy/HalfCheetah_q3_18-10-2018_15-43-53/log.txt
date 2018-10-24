@@ -1,0 +1,16 @@
+10-18 15:43:53 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Gathering random dataset
+10-18 15:43:53 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Creating policy
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Iteration -1
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ---------  ---------
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Itr          -1
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ReturnAvg  -135.223
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ReturnMax  -101.673
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ReturnMin  -195.207
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ReturnStd    33.3694
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     ---------  ---------
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 DEBUG    
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 DEBUG    : total      0.0 (100.0%)
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 DEBUG    : other      0.0 (100.0%)
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 DEBUG    
+10-18 15:43:59 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Iteration 0
+10-18 15:44:02 HalfCheetah_q3_18-10-2018_15-43-53 INFO     Training policy...

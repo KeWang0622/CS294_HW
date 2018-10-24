@@ -1,0 +1,2 @@
+10-18 22:19:39 HalfCheetah_q3_18-10-2018_22-19-39 INFO     Gathering random dataset
+10-18 22:19:40 HalfCheetah_q3_18-10-2018_22-19-39 INFO     Creating policy
